@@ -50,6 +50,7 @@ the source code.
      If you didn't change default IP address in config.json file you'll see
      VDD's main page. Main page has links to configured sites, development tools
      and list of frequently asked questions.
+  8. vist http://Storleden.dev to brows drupal 8 website username: admin password: admin.
 
 Now you have ready to use virtual development server. By default 2 sites
 are configured: Drupal 7 and Drupal 8. You can add new ones in config.json file

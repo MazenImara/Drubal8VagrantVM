@@ -14,15 +14,15 @@
   "vdd": {
     "sites": {
       "drupal8": {
-        "account_name": "root",
-        "account_pass": "root",
-        "account_mail": "box@example.com",
-        "site_name": "Drupal 8",
-        "site_mail": "box@example.com",
+        "account_name": "admin",
+        "account_pass": "admin",
+        "account_mail": "admin@storleden.com",
+        "site_name": "Storleden",
+        "site_mail": "admin@storleden.com",
         "vhost": {
           "document_root": "drupal8",
-          "url": "drupal8.dev",
-          "alias": ["www.drupal8.dev"]
+          "url": "storleden.dev",
+          "alias": ["www.storleden.dev"]
         }
       },
       "drupal7": {
